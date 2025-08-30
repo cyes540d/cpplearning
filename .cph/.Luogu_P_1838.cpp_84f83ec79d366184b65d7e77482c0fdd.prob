@@ -1,0 +1,1 @@
+{"name":"Luogu - P1838","url":"https://www.luogu.com.cn/problem/P1838","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"5237649\n","output":"xiaoa wins.\n","id":1755229709878},{"id":1755229709879,"input":"539128647","output":"drew."},{"id":1755230559799,"input":"987654321","output":"xiaoa wins."}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_1838.cpp"}

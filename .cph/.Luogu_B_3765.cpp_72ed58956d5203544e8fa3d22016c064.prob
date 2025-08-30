@@ -1,0 +1,1 @@
+{"name":"Luogu - B3765","url":"https://www.luogu.com.cn/problem/B3765","memoryLimit":262144,"timeLimit":1000,"tests":[{"id":1754998755671,"input":"6\n2 2 3\n3 3 4 1\n2 4 5\n1 6\n1 6\n1 5\n","output":"5"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3765.cpp"}

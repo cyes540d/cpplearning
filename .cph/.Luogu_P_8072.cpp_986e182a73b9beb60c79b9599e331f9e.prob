@@ -1,0 +1,1 @@
+{"name":"Luogu - P8072","url":"https://www.luogu.com.cn/problem/P8072","memoryLimit":32768,"timeLimit":1000,"tests":[{"input":"6","output":"8 2","id":1756221230695},{"input":"7","output":"8 3","id":1756221230696},{"id":1756221230697,"input":"5","output":"8 3"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_8072.cpp"}

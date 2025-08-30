@@ -1,0 +1,1 @@
+{"name":"Luogu - B2075","url":"https://www.luogu.com.cn/problem/B2075","memoryLimit":131072,"timeLimit":1000,"tests":[{"input":"2 3","output":"008","id":1754829218266},{"input":"7 2011","output":"743","id":1754829218267}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_2075.cpp"}

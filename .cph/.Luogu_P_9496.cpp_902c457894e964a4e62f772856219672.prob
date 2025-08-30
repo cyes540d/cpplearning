@@ -1,0 +1,1 @@
+{"name":"Luogu - P9496","url":"https://www.luogu.com.cn/problem/P9496","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1756190674348,"input":"3\n1 1\n4 5\n1 4","output":"0\n1\n2"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_9496.cpp"}

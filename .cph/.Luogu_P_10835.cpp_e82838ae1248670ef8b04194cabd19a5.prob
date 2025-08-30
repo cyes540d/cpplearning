@@ -1,0 +1,1 @@
+{"name":"Luogu - P10835","url":"https://www.luogu.com.cn/problem/P10835","memoryLimit":524288,"timeLimit":1000,"tests":[{"id":1756185460819,"input":"4\n3 3\n2 5\n0 3\n1 4\n","output":"Yes\nYes\nNo\nNo\n"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_10835.cpp"}

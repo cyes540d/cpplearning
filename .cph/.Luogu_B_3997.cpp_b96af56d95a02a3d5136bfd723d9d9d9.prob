@@ -1,0 +1,1 @@
+{"name":"Luogu - B3997","url":"https://www.luogu.com.cn/problem/B3997","memoryLimit":524288,"timeLimit":1000,"tests":[{"input":"aaababcaacd","output":"5","id":1755105141407},{"id":1755105141408,"input":"abacdcaaba","output":"2"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3997.cpp"}

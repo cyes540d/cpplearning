@@ -1,0 +1,1 @@
+{"name":"Luogu - B3711","url":"https://www.luogu.com.cn/problem/B3711","memoryLimit":262144,"timeLimit":1000,"tests":[{"input":"3\n234\n1\n286","output":"Yes\nNo\nYes","id":1754995501266},{"id":1754995501267,"input":"1\n2386","output":"Yes"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3711.cpp"}

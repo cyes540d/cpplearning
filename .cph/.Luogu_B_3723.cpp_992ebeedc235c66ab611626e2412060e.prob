@@ -1,0 +1,1 @@
+{"name":"Luogu - B3723","url":"https://www.luogu.com.cn/problem/B3723","memoryLimit":524288,"timeLimit":1000,"tests":[{"input":"2\n3 2","output":"2 3","id":1755923765827},{"id":1755923765828,"input":"5\n1 2 3 4 5","output":"9 6"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3723.cpp"}

@@ -1,0 +1,1 @@
+{"name":"Luogu - B3769","url":"https://www.luogu.com.cn/problem/B3769","memoryLimit":524288,"timeLimit":1000,"tests":[{"id":1755150502227,"input":"Yifusuyi\nyifusuYi\n3\n1 2 7 8\n1 2 1 2\n7 8 7 8","output":"ovo\nyifusuyi\nerfusuer"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3769.cpp"}

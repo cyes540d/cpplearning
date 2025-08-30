@@ -1,0 +1,1 @@
+{"name":"Luogu - B3798","url":"https://www.luogu.com.cn/problem/B3798","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1755673733961,"input":"5 3\nkkksc03 90 80 70\nchenzhe 40 50 60\npinkrabbit 11 45 14\nxht37 0 0 0\nyakumoran 100 100 100","output":"pinkrabbit\nchenzhe\nkkksc03\nxht37\nyakumoran"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3798.cpp"}

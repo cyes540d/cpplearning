@@ -1,0 +1,1 @@
+{"name":"Luogu - B2077","url":"https://www.luogu.com.cn/problem/B2077","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1754829492741,"input":"5","output":"5*3+1=16\n16/2=8\n8/2=4\n4/2=2\n2/2=1\nEnd"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_2077.cpp"}

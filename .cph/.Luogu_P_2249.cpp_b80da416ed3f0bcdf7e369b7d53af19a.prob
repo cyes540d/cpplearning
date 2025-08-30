@@ -1,0 +1,1 @@
+{"name":"Luogu - P2249","url":"https://www.luogu.com.cn/problem/P2249","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1755958065267,"input":"11 3\n1 3 3 3 5 7 9 11 13 15 15\n1 3 6","output":"1 2 -1 "}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_2249.cpp"}

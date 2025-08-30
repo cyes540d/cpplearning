@@ -1,0 +1,1 @@
+{"name":"Luogu - P5461","url":"https://www.luogu.com.cn/problem/P5461","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1755344495417,"input":"3","output":"0 0 0 0 0 0 0 1\n0 0 0 0 0 0 1 1\n0 0 0 0 0 1 0 1\n0 0 0 0 1 1 1 1\n0 0 0 1 0 0 0 1\n0 0 1 1 0 0 1 1\n0 1 0 1 0 1 0 1\n1 1 1 1 1 1 1 1"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_5461.cpp"}

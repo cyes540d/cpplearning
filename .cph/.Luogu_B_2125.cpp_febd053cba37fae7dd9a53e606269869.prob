@@ -1,0 +1,1 @@
+{"name":"Luogu - B2125","url":"https://www.luogu.com.cn/problem/B2125","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1755625341209,"input":"5\n87 lilei\n99 hanmeimei\n97 lily\n96 lucy\n77 jim","output":"hanmeimei\n"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_2125.cpp"}

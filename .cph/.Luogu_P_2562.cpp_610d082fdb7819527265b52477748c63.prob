@@ -1,0 +1,1 @@
+{"name":"Luogu - P2562","url":"https://www.luogu.com.cn/problem/P2562","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"00","output":"A","id":1755415673416},{"id":1755415673417,"input":"01001011","output":"CCCABACCBAB"},{"id":1755415714246,"input":"1011","output":""}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_2562.cpp"}

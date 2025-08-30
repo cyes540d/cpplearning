@@ -1,0 +1,1 @@
+{"name":"Luogu - P1322","url":"https://www.luogu.com.cn/problem/P1322","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1755513070976,"input":"FD 100\n","output":"100\n"},{"id":1755513981079,"input":"REPEAT 5[FD 50 REPEAT 10[FD 100]]","output":""}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_1322.cpp"}

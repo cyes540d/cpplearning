@@ -1,0 +1,1 @@
+{"name":"Luogu - B3614","url":"https://www.luogu.com.cn/problem/B3614","memoryLimit":524288,"timeLimit":1000,"tests":[{"id":1755912262833,"input":"2\n5\npush 2\nquery\nsize\npop\nquery\n3\npop\nquery\nsize","output":"2\n1\nAnguei!\nEmpty\nAnguei!\n0"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3614.cpp"}

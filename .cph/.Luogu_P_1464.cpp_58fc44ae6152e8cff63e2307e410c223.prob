@@ -1,0 +1,1 @@
+{"name":"Luogu - P1464","url":"https://www.luogu.com.cn/problem/P1464","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1755338245078,"input":"25 25 25\n-1 -1 -1","output":"w(1, 1, 1) = 2\nw(2, 2, 2) = 4"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_P_1464.cpp"}

@@ -1,0 +1,1 @@
+{"name":"Luogu - B3827","url":"https://www.luogu.com.cn/problem/B3827","memoryLimit":131072,"timeLimit":1000,"tests":[{"input":"3 2\n10 20\n15 25\n20 30","output":"3\n2","id":1755625357380},{"id":1755625357381,"input":"3 2\n10 20\n5 25\n1 2","output":"1\n2"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_3827.cpp"}

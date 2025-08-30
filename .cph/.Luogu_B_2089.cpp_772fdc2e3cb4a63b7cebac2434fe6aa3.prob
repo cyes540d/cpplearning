@@ -1,0 +1,1 @@
+{"name":"Luogu - B2089","url":"https://www.luogu.com.cn/problem/B2089","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1754886403269,"input":"5\n8 6 5 4 1","output":"1 4 5 6 8"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_2089.cpp"}

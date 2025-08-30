@@ -1,0 +1,1 @@
+{"name":"Luogu - B2101","url":"https://www.luogu.com.cn/problem/B2101","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1754891081899,"input":"3 3\n3 4 1\n3 7 1\n2 0 1","output":"15"}],"group":"luogu","srcPath":"d:\\cpplearning\\Luogu_B_2101.cpp"}
